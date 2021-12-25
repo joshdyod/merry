@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Creates a Merry Message! 
+
+#V1 2.25.21#
+
+sleep 2
+
+figlet Merry Christmas 
+
+sleep 3
+
+figlet You Filthy Animals
+
+sleep 3
+
+aafire
+
+sleep 10 
+
+exit 0 
