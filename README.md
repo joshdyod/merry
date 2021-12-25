@@ -11,8 +11,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_| """"| {======|_|"""""|_|"""""|_|"""""|_|"""""
 
 Download the aalib-bin and figlet packages 
 
-``` sudo apt install aalib-bin && apt install figlet -y 
-```
+```  sudo apt install aalib-bin && apt install figlet -y  ```
 
 
 Edit any text in the script after 'figlet' to change the message 
