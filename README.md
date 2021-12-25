@@ -1,4 +1,5 @@
-```  __  __                            _  _           __  __            _                     
+```  
+ __  __                            _  _           __  __            _                     
 |  \/  |   ___      _ _     _ _   | || |    o O O|  \/  |  __ _    | |__    ___      _ _  
 | |\/| |  / -_)    | '_|   | '_|   \_, |   o     | |\/| | / _` |   | / /   / -_)    | '_| 
 |_|__|_|  \___|   _|_|_   _|_|_   _|__/   TS__[O]|_|__|_| \__,_|   |_\_\   \___|   _|_|_  
@@ -11,7 +12,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_| """"| {======|_|"""""|_|"""""|_|"""""|_|"""""
 
 Download the aalib-bin and figlet packages 
 
-```  sudo apt install aalib-bin && apt install figlet -y  ```
+```  sudo apt install aalib-bin && sudo apt install figlet -y  ```
 
 
 Edit any text in the script after 'figlet' to change the message 
