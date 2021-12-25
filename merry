@@ -2,7 +2,7 @@
 
 # Creates a Merry Message! 
 
-#V1 2.25.21#
+# V1 2.25.21
 
 sleep 2
 
@@ -16,6 +16,4 @@ sleep 3
 
 aafire
 
-sleep 10 
-
-exit 0 
+done
