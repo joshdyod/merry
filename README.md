@@ -15,7 +15,7 @@ Download the aalib-bin and figlet packages
 ```  sudo apt install aalib-bin && sudo apt install figlet -y  ```
 
 
-Edit any text in the script after 'figlet' to change the message 
+Edit any text in the script after "figlet" to change the message 
 
 
 
